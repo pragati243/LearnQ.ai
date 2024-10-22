@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "questionText": "An algebraic expression containing three terms is called a",
+    "options": ["monomial", "binomial", "trinomial", "all of these"],
+    "correctOption": "trinomial",
+    "marksAllocated": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "questionText": "Number of terms in the expression 3.x^2.y - 2.y^2.z - z^2.x + 5 is",
+    "options": ["2", "3", "4", "5"],
+    "correctOption": "4",
+    "marksAllocated": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "questionText": "The terms of expression 4.x^2 - 3.x.y are:",
+    "options": ["4.x^2 and -3.x.y", "4.x^2 and 3.x.y", "4.x^2 and -x.y", "x^2 and x.y"],
+    "correctOption": "4.x^2 and -3.x.y",
+    "marksAllocated": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "questionText": "Factors of -5.x^2.y^2.z are",
+    "options": ["-5.x.y.z", "-5.x^2.y.z", "-5.x.x.y.y.z", "-5.x.y.z^2"],
+    "correctOption": "-5.x.x.y.y.z",
+    "marksAllocated": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "questionText": "Coefficient of x in -9.x.y^2.z is",
+    "options": ["9.y.z", "-9.y.z", "9.y^2.z", "-9.y^2.z"],
+    "correctOption": "-9.y^2.z",
+    "marksAllocated": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "questionText": "The subtraction of 5 times of y from x is",
+    "options": ["5x - y", "y - 5x", "x - 5y", "5y - x"],
+    "correctOption": "x - 5y",
+    "marksAllocated": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "questionText": "The side length of the top of a square table is x. The expression for perimeter is:",
+    "options": ["4 + x", "2x", "4x", "8x"],
+    "correctOption": "4x",
+    "marksAllocated": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 8,
+    "questionText": "81^5 ÷ (3^2)^5 =",
+    "options": ["3^10", "3^2", "3^5", "None of these"],
+    "correctOption": "3^10",
+    "marksAllocated": 1,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "questionText": "(8^2 × 8^4) - 2^18 =",
+    "options": ["2^2", "2^4", "0", "None of these"],
+    "correctOption": "0",
+    "marksAllocated": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": 10,
+    "questionText": "(3^7) ÷ (81 × 3^3) =",
+    "options": ["3", "3^2", "3^0", "None of these"],
+    "correctOption": "3^0",
+    "marksAllocated": 1,
+    "difficulty": "Hard"
+  }
+]
